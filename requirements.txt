@@ -125,8 +125,7 @@ networkx==3.3
 nltk==3.8.1
 numpy==1.26.2
 omegaconf==2.3.0
-openai==1.23.1
-opencv-python==4.8.1.78
+
 opt-einsum==3.3.0
 optree==0.11.0
 orjson==3.10.1
